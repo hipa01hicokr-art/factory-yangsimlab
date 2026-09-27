@@ -1,0 +1,54 @@
+[
+ {
+  "title": "생산물책임보험",
+  "slug": "product-liability"
+ },
+ {
+  "title": "임차공장 화재보험",
+  "slug": "leased-factory"
+ },
+ {
+  "title": "기계설비 화재보험",
+  "slug": "machinery-fire"
+ },
+ {
+  "title": "재고자산 화재보험",
+  "slug": "inventory"
+ },
+ {
+  "title": "휴업손해보험",
+  "slug": "business-interruption"
+ },
+ {
+  "title": "공장화재배상보험",
+  "slug": "fire-liability"
+ },
+ {
+  "title": "공장재산종합보험",
+  "slug": "property-all-risk"
+ },
+ {
+  "title": "동산종합보험",
+  "slug": "inland-marine"
+ },
+ {
+  "title": "기업화재보험",
+  "slug": "corporate-fire"
+ },
+ {
+  "title": "기계화재보험",
+  "slug": "machinery-vs-fire"
+ },
+ {
+  "title": "패키지보험",
+  "slug": "package-policy"
+ },
+ {
+  "title": "제조물보험",
+  "slug": "manufacturer-insurance"
+ },
+ {
+  "title": "생산물보험",
+  "slug": "products-insurance"
+ }
+]

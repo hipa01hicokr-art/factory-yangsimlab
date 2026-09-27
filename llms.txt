@@ -1,0 +1,63 @@
+# 양심보험연구소 공장화재보험 (factory.yangsimlab.com)
+
+> 양심보험연구소는 22년 경력의 화재보험 전문가 노영규가 운영하는 보험 상담 사이트로, 공장·제조업체를 위한 화재보험, 배상책임보험, 휴업손해보험의 설계와 계약 후 관리, 사고 보상 지원을 제공합니다. 상담과 증권 검토는 비용 없이 진행하며, 보험료는 업종·건물 구조·설비와 재고 가입금액·배상 한도에 따라 개별 산정합니다. (2026년 9월 기준)
+
+## 전문가
+- [화재보험 전문가 노영규](https://factory.yangsimlab.com/about/): 손해보험 22년, 설계사 등록번호 20050776010016, 지에이코리아(주) 소속, 저서 『매출이 오르는 가게는 보험부터 다르다』, 월간 창업&프랜차이즈·THE E-STATION 칼럼 연재
+
+## 주요 페이지
+- [공장화재보험 홈](https://factory.yangsimlab.com/): 공장 맞춤 화재보험 설계, 상담 절차, 체크리스트, FAQ
+- [공장화재보험 칼럼](https://factory.yangsimlab.com/columns/): 키워드별 전문가 칼럼 모음
+- [산업단지별 공장화재보험](https://factory.yangsimlab.com/sandan/): 산단별 업종 구성과 화재 위험 안내
+
+## 칼럼
+- [생산물책임보험](https://factory.yangsimlab.com/columns/product-liability/): 생산물책임보험, 출고한 제품의 결함으로 제3자가 입은 피해에 대한 제조사 배상책임을 정리했습니다.
+- [임차공장 화재보험](https://factory.yangsimlab.com/columns/leased-factory/): 임차공장 화재보험, 건물주 보험이 못 보는 설비·재고와 임차자배상책임을 표로 정리했습니다.
+- [기계설비 화재보험](https://factory.yangsimlab.com/columns/machinery-fire/): 기계설비 화재보험, 재조달가액과 비례보상, 증설·리스 설비까지 가입금액을 정하는 기준을 정리했습니다.
+- [재고자산 화재보험](https://factory.yangsimlab.com/columns/inventory/): 재고자산 화재보험, 계절마다 바뀌는 재고와 수탁재고, 사고 후 입증 방법까지 정리했습니다.
+- [휴업손해보험](https://factory.yangsimlab.com/columns/business-interruption/): 휴업손해보험, 공장이 멈춘 기간의 고정비와 이익 손실, 보상 기간을 정하는 법을 정리했습니다.
+- [공장화재배상보험](https://factory.yangsimlab.com/columns/fire-liability/): 공장화재배상보험, 불이 옆 공장으로 번졌을 때의 배상책임과 실화책임법의 한계, 한도 정하는 법을 정리했습니다.
+- [공장재산종합보험](https://factory.yangsimlab.com/columns/property-all-risk/): 공장재산종합보험, 포괄 방식과 열거 방식의 차이와 면책 조항 읽는 법을 정리했습니다.
+- [동산종합보험](https://factory.yangsimlab.com/columns/inland-marine/): 동산종합보험, 협력업체 금형·현장 장비·운송 물품처럼 공장 밖 재산의 보장 공백을 정리했습니다.
+- [기업화재보험](https://factory.yangsimlab.com/columns/corporate-fire/): 기업화재보험, 특수건물 의무가입과 대출 질권, 여러 사업장 관리까지 법인이 챙길 항목을 정리했습니다.
+- [기계화재보험](https://factory.yangsimlab.com/columns/machinery-vs-fire/): 기계화재보험, 기계 고장은 기계보험, 불은 화재보험. 두 보험의 경계와 과열 화재처럼 겹치는 사례를 정리했습니다.
+- [패키지보험](https://factory.yangsimlab.com/columns/package-policy/): 패키지보험, 재산·배상·휴업을 한 증권에 묶는 구조와 잘 맞는 공장, 과한 공장의 기준을 정리했습니다.
+- [제조물보험](https://factory.yangsimlab.com/columns/manufacturer-insurance/): 제조물보험, 거래처가 가입 증명서를 요구할 때 판매 지역·계약 조건·추가 피보험자까지 확인할 점을 정리했습니다.
+- [생산물보험](https://factory.yangsimlab.com/columns/products-insurance/): 생산물보험 가입 실무 Q&A. 보험료 기준, 준비 서류, 보장 기간 방식, 배상 한도까지 자주 묻는 질문에 답했습니다.
+
+## 산업단지별 안내
+- [반월공단화재보험](https://factory.yangsimlab.com/sandan/banwol/): 기계·전기전자 중심, 임차 58%, 염색·도금단지까지 품은 안산 반월공단의 화재 위험
+- [시화공단화재보험](https://factory.yangsimlab.com/sandan/sihwa/): 입주 1만 1천여 곳, 기계 59%, 임차 65%의 초밀집 산단 시화공단과 시화MTV의 화재 위험
+- [남동공단화재보험](https://factory.yangsimlab.com/sandan/namdong/): 기계 49%, 임차 64%, 2018년 대형 인명 사고를 겪은 인천 남동공단의 화재 위험
+- [부평공단화재보험](https://factory.yangsimlab.com/sandan/bupyeong/): 1965년 지정, 전기전자 32%, 도심 한가운데 노후 공장이 모인 인천 부평공단의 화재 위험
+- [주안공단화재보험](https://factory.yangsimlab.com/sandan/juan/): 1969년 지정, 기계 31%·전기전자 28%, 세 개 구에 걸친 인천 주안공단의 화재 위험
+- [김포학운공단화재보험](https://factory.yangsimlab.com/sandan/gimpo-hagun/): 학운 1~7단지로 이어진 김포 양촌읍 신흥 산단, 사출·박스 공장 화재 이력이 있는 학운공단
+- [화성발안공단화재보험](https://factory.yangsimlab.com/sandan/hwaseong-balan/): 의약품 33%, 금속가공 30%, 단지 안에 주거시설이 있는 화성 향남 발안공단의 화재 위험
+- [오송공단화재보험](https://factory.yangsimlab.com/sandan/osong/): 대형 제약사와 식약처가 함께 있는 바이오 국가산단, 원료 폭발·연구설비 위험을 살피는 오송
+- [아산인주공단화재보험](https://factory.yangsimlab.com/sandan/asan-inju/): 자동차 부품·기계·철강 중심, 아산항 인접 산단에서 화학물질 사고도 겪은 인주공단
+- [당진석문공단화재보험](https://factory.yangsimlab.com/sandan/dangjin-seokmun/): 기계·석유화학·철강 중심, 신생 대형 산단이지만 에너지 설비 화재가 난 당진 석문공단
+- [평택포승공단화재보험](https://factory.yangsimlab.com/sandan/pyeongtaek-poseung/): 평택항 인접, 석유화학 저장시설과 제조 공장이 섞인 아산국가산단 포승지구의 화재 위험
+- [구미공단화재보험](https://factory.yangsimlab.com/sandan/gumi/): 입주 3,136개사, 기계·전기전자 중심, 1973년 준공 1단지부터 5단지까지 이어진 구미공단
+- [창원공단화재보험](https://factory.yangsimlab.com/sandan/changwon/): 입주 3,292개사, 기계·운송장비가 생산의 60% 이상, 지정 50년을 넘긴 창원국가산단
+- [울산미포공단화재보험](https://factory.yangsimlab.com/sandan/ulsan-mipo/): 석유정제·화학·조선·자동차가 모인 4,800만㎡ 중화학 산단, 협력사 공장의 화재·폭발 위험
+- [성남공단화재보험](https://factory.yangsimlab.com/sandan/seongnam/): 입주 2,903개사, 지식산업센터 입주 비중이 90%를 넘는 수도권 최대 일반산단, 성남하이테크밸리
+- [검단공단화재보험](https://factory.yangsimlab.com/sandan/geomdan/): 입주 1,299개사, 화학·금속가공 등 25개 업종, 2026년 9월 대형 화재를 겪은 오류동 일대
+- [김포양촌공단화재보험](https://factory.yangsimlab.com/sandan/gimpo-yangchon/): 입주 963개사, 종이·인쇄·플라스틱 등 가연성 업종이 모이고 단지 안에 주거시설이 있는 양촌공단
+- [파주출판단지화재보험](https://factory.yangsimlab.com/sandan/paju-publishing/): 출판·인쇄·서적 물류가 모인 국가산단, 종이 재고가 쌓인 파주출판도시의 화재 위험
+- [대전공단화재보험](https://factory.yangsimlab.com/sandan/daejeon/): 입주 1,110개사, 건물 70% 이상이 20년 넘은 도심 속 노후 산단, 대전 대화동 공단
+- [청주공단화재보험](https://factory.yangsimlab.com/sandan/cheongju/): 입주 756개사, 전기전자·기계·석유화학 중심, 1969년부터 조성된 청주 흥덕구 산업단지
+
+## 상담
+- 전화: 010-8284-6593
+- 카카오채널: https://pf.kakao.com/_xcxdyWxd
+- 유튜브: https://www.youtube.com/@yangsimbohum
+- 사무실: 서울 강남구 테헤란로25길 20 역삼현대벤처텔 1406호 / 경기 고양시 일산동구 호수로 646-24 노블소호비즈 22호
+
+## 안내
+- 보험 가입 가능 여부와 보장 내용은 보험사 인수 기준과 약관, 공장 현황에 따라 달라질 수 있습니다.
+- 보험대리점 지에이코리아(주) 대리점 등록번호 2009098136
+
+## 사이트맵
+- https://factory.yangsimlab.com/sitemap.xml
+- https://factory.yangsimlab.com/rss.xml
+- https://factory.yangsimlab.com/llms-full.txt: 모든 페이지 본문 전문
