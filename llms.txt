@@ -24,6 +24,8 @@
 - [패키지보험](https://factory.yangsimlab.com/columns/package-policy/): 패키지보험, 재산·배상·휴업을 한 증권에 묶는 구조와 잘 맞는 공장, 과한 공장의 기준을 정리했습니다.
 - [제조물보험](https://factory.yangsimlab.com/columns/manufacturer-insurance/): 제조물보험, 거래처가 가입 증명서를 요구할 때 판매 지역·계약 조건·추가 피보험자까지 확인할 점을 정리했습니다.
 - [생산물보험](https://factory.yangsimlab.com/columns/products-insurance/): 생산물보험 가입 실무 Q&A. 보험료 기준, 준비 서류, 보장 기간 방식, 배상 한도까지 자주 묻는 질문에 답했습니다.
+- [재산종합보험과 화재보험 차이](https://factory.yangsimlab.com/columns/property-all-risk-vs-fire/): 재산종합보험과 화재보험 차이, 열거 위험과 전위험 방식, 면책 목록, 기계·휴업까지 묶는 구조를 비교했습니다.
+- [재조달가액과 시가 차이](https://factory.yangsimlab.com/columns/replacement-vs-actual/): 재조달가액과 시가 차이, 감가상각과 보험가액 평가 기준, 공장 기계·건물 가입금액 정하는 법과 비례보상의 관계를 정리했습니다.
 
 ## 산업단지별 안내
 - [반월공단화재보험](https://factory.yangsimlab.com/sandan/banwol/): 기계·전기전자 중심, 임차 58%, 염색·도금단지까지 품은 안산 반월공단의 화재 위험
