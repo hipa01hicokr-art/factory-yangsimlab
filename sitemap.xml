@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://factory.yangsimlab.com/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://factory.yangsimlab.com/</loc><lastmod>2026-10-29</lastmod>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/og/home.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/home-1.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/home-2.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/home-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/home-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/home-5.jpg</image:loc></image:image></url>
-  <url><loc>https://factory.yangsimlab.com/columns/</loc><lastmod>2026-10-17</lastmod>
+  <url><loc>https://factory.yangsimlab.com/columns/</loc><lastmod>2026-10-29</lastmod>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/og/columns.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/img/trust-book.jpg</image:loc></image:image>
@@ -133,6 +133,13 @@
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-business-interruption-vs-fire-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-business-interruption-vs-fire-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-business-interruption-vs-fire-5.jpg</image:loc></image:image></url>
+  <url><loc>https://factory.yangsimlab.com/columns/winter-factory-fire/</loc><lastmod>2026-10-29</lastmod>
+    <image:image><image:loc>https://factory.yangsimlab.com/assets/og/col-winter-factory-fire.jpg</image:loc></image:image>
+    <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-winter-factory-fire-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-winter-factory-fire-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-winter-factory-fire-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-winter-factory-fire-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/columns-winter-factory-fire-5.jpg</image:loc></image:image></url>
   <url><loc>https://factory.yangsimlab.com/sandan/</loc><lastmod>2026-10-14</lastmod>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/og/sandan.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/img/trust-mgf.jpg</image:loc></image:image>
@@ -280,6 +287,6 @@
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/sandan-cheongju-3.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/sandan-cheongju-4.jpg</image:loc></image:image>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/trust/sandan-cheongju-5.jpg</image:loc></image:image></url>
-  <url><loc>https://factory.yangsimlab.com/about/</loc><lastmod>2026-10-25</lastmod>
+  <url><loc>https://factory.yangsimlab.com/about/</loc><lastmod>2026-10-29</lastmod>
     <image:image><image:loc>https://factory.yangsimlab.com/assets/og/about.jpg</image:loc></image:image></url>
 </urlset>

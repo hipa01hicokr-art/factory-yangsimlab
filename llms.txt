@@ -28,6 +28,7 @@
 - [재조달가액과 시가 차이](https://factory.yangsimlab.com/columns/replacement-vs-actual/): 재조달가액과 시가 차이, 감가상각과 보험가액 평가 기준, 공장 기계·건물 가입금액 정하는 법과 비례보상의 관계를 정리했습니다.
 - [공장화재보험과 화재배상책임보험 차이](https://factory.yangsimlab.com/columns/fire-vs-fire-liability/): 공장화재보험과 화재배상책임보험 차이, 내 공장 재산 손해와 옆 공장 피해 배상의 근거·잣대를 비교했습니다.
 - [기업휴지보험과 화재보험 차이](https://factory.yangsimlab.com/columns/business-interruption-vs-fire/): 기업휴지보험과 화재보험 차이, 불에 탄 재산 손해와 공장이 멈춘 기간의 이익·고정비 손실을 비교했습니다.
+- [겨울철 공장 화재와 화재보험 점검](https://factory.yangsimlab.com/columns/winter-factory-fire/): 겨울철 공장 화재와 화재보험 점검, 난방기·전기 과부하·열선·정전기 불씨와 연말 재고·휴업 손해까지 정리했습니다. 첫 추위 전에 증권을 점검해 보세요.
 
 ## 산업단지별 안내
 - [반월공단화재보험](https://factory.yangsimlab.com/sandan/banwol/): 기계·전기전자 중심, 임차 58%, 염색·도금단지까지 품은 안산 반월공단의 화재 위험
