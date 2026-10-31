@@ -1,6 +1,6 @@
 # 양심보험연구소 공장화재보험 (factory.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://factory.yangsimlab.com/llms.txt 를 보세요. (2026-10-29 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://factory.yangsimlab.com/llms.txt 를 보세요. (2026-10-31 기준)
 
 ---
 
@@ -243,7 +243,7 @@ THE e-STATION 화재보험 칼럼
 ## 공장화재보험 칼럼
 
 URL: https://factory.yangsimlab.com/columns/
-수정일: 2026-10-29
+수정일: 2026-10-31
 요약: 위험관리전문가 노영규가 생산물책임, 임차공장, 기계설비, 재고자산, 휴업손해, 배상책임까지 공장화재보험의 핵심 주제를 키워드별로 정리한 칼럼 모음입니다.
 
 위험관리전문가 노영규의 칼럼
@@ -1174,7 +1174,7 @@ URL: https://factory.yangsimlab.com/columns/winter-factory-fire/
 ## 산업단지별 공장화재보험
 
 URL: https://factory.yangsimlab.com/sandan/
-수정일: 2026-10-14
+수정일: 2026-10-31
 요약: 반월·시화·남동부터 구미·창원·울산미포까지, 산업단지마다 다른 업종 구성과 입지 특징에 맞춰 공장화재보험을 안내합니다. 산단별 화재 위험과 점검 포인트를 확인하세요.
 
 산업단지별 안내
