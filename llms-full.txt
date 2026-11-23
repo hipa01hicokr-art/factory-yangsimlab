@@ -603,7 +603,7 @@ URL: https://factory.yangsimlab.com/columns/fire-liability/
 ## 공장재산종합보험
 
 URL: https://factory.yangsimlab.com/columns/property-all-risk/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 공장재산종합보험, 포괄 방식과 열거 방식의 차이와 면책 조항 읽는 법을 정리했습니다. 지금 증권이 어떤 방식인지 점검받아 보세요.
 
 전문가 칼럼 · 종합보험
@@ -758,7 +758,7 @@ URL: https://factory.yangsimlab.com/columns/corporate-fire/
 ## 기계화재보험
 
 URL: https://factory.yangsimlab.com/columns/machinery-vs-fire/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 기계화재보험, 기계 고장은 기계보험, 불은 화재보험. 두 보험의 경계와 과열 화재처럼 겹치는 사례를 정리했습니다. 설비별 점검을 받아보세요.
 
 전문가 칼럼 · 비교
@@ -808,7 +808,7 @@ URL: https://factory.yangsimlab.com/columns/machinery-vs-fire/
 ## 패키지보험
 
 URL: https://factory.yangsimlab.com/columns/package-policy/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 패키지보험, 재산·배상·휴업을 한 증권에 묶는 구조와 잘 맞는 공장, 과한 공장의 기준을 정리했습니다. 흩어진 보험 정리를 상담하세요.
 
 전문가 칼럼 · 종합보험
@@ -1100,7 +1100,7 @@ URL: https://factory.yangsimlab.com/columns/fire-vs-fire-liability/
 ## 기업휴지보험과 화재보험 차이
 
 URL: https://factory.yangsimlab.com/columns/business-interruption-vs-fire/
-수정일: 2026-10-25
+수정일: 2026-11-23
 요약: 기업휴지보험과 화재보험 차이, 불에 탄 재산 손해와 공장이 멈춘 기간의 이익·고정비 손실을 비교했습니다. 휴지 담보 필요 여부를 상담하세요.
 
 전문가 칼럼 · 휴업
@@ -1146,7 +1146,7 @@ URL: https://factory.yangsimlab.com/columns/business-interruption-vs-fire/
 ## 겨울철 공장 화재와 화재보험 점검
 
 URL: https://factory.yangsimlab.com/columns/winter-factory-fire/
-수정일: 2026-10-29
+수정일: 2026-11-23
 요약: 겨울철 공장 화재와 화재보험 점검, 난방기·전기 과부하·열선·정전기 불씨와 연말 재고·휴업 손해까지 정리했습니다. 첫 추위 전에 증권을 점검해 보세요.
 
 전문가 칼럼 · 계절·겨울
