@@ -1,13 +1,13 @@
 # 양심보험연구소 공장화재보험 (factory.yangsimlab.com) — 전체 본문
 
-> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://factory.yangsimlab.com/llms.txt 를 보세요. (2026-11-23 기준)
+> 이 파일은 AI가 사이트 내용을 정확히 인용하도록 모든 페이지의 본문을 한곳에 모은 것입니다. 요약 안내는 https://factory.yangsimlab.com/llms.txt 를 보세요. (2026-11-25 기준)
 
 ---
 
 ## 공장화재보험은 양심보험연구소가 잘 압니다
 
 URL: https://factory.yangsimlab.com/
-수정일: 2026-11-21
+수정일: 2026-11-25
 요약: 공장화재보험, 건물·기계설비·재고·생산물배상·휴업손해까지 22년 화재보험 전문가 노영규가 공장에 맞게 설계합니다. 전화·카카오채널로 상담하세요.
 
 전문성
@@ -309,7 +309,7 @@ URL: https://factory.yangsimlab.com/columns/
 ## 생산물책임보험
 
 URL: https://factory.yangsimlab.com/columns/product-liability/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 생산물책임보험, 출고한 제품의 결함으로 제3자가 입은 피해에 대한 제조사 배상책임을 정리했습니다. 22년 화재보험 전문가에게 상담하세요.
 
 전문가 칼럼 · 배상책임
@@ -359,7 +359,7 @@ URL: https://factory.yangsimlab.com/columns/product-liability/
 ## 임차공장 화재보험
 
 URL: https://factory.yangsimlab.com/columns/leased-factory/
-수정일: 2026-11-21
+수정일: 2026-11-25
 요약: 임차공장 화재보험, 건물주 보험이 못 보는 설비·재고와 임차자배상책임을 표로 정리했습니다. 계약서와 증권 점검은 전화로 문의하세요.
 
 전문가 칼럼 · 임차 공장
@@ -412,7 +412,7 @@ URL: https://factory.yangsimlab.com/columns/leased-factory/
 ## 기계설비 화재보험
 
 URL: https://factory.yangsimlab.com/columns/machinery-fire/
-수정일: 2026-11-21
+수정일: 2026-11-25
 요약: 기계설비 화재보험, 재조달가액과 비례보상, 증설·리스 설비까지 가입금액을 정하는 기준을 정리했습니다. 설비 목록 점검을 받아보세요.
 
 전문가 칼럼 · 설비
@@ -458,7 +458,7 @@ URL: https://factory.yangsimlab.com/columns/machinery-fire/
 ## 재고자산 화재보험
 
 URL: https://factory.yangsimlab.com/columns/inventory/
-수정일: 2026-11-21
+수정일: 2026-11-25
 요약: 재고자산 화재보험, 계절마다 바뀌는 재고와 수탁재고, 사고 후 입증 방법까지 정리했습니다. 월별 재고에 맞춘 가입금액을 상담하세요.
 
 전문가 칼럼 · 재고
@@ -508,7 +508,7 @@ URL: https://factory.yangsimlab.com/columns/inventory/
 ## 휴업손해보험
 
 URL: https://factory.yangsimlab.com/columns/business-interruption/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 휴업손해보험, 공장이 멈춘 기간의 고정비와 이익 손실, 보상 기간을 정하는 법을 정리했습니다. 복구 기간 계산은 전문가와 상담하세요.
 
 전문가 칼럼 · 휴업
@@ -558,7 +558,7 @@ URL: https://factory.yangsimlab.com/columns/business-interruption/
 ## 공장화재배상보험
 
 URL: https://factory.yangsimlab.com/columns/fire-liability/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 공장화재배상보험, 불이 옆 공장으로 번졌을 때의 배상책임과 실화책임법의 한계, 한도 정하는 법을 정리했습니다. 산단 공장 상담을 받아보세요.
 
 전문가 칼럼 · 배상책임
@@ -603,7 +603,7 @@ URL: https://factory.yangsimlab.com/columns/fire-liability/
 ## 공장재산종합보험
 
 URL: https://factory.yangsimlab.com/columns/property-all-risk/
-수정일: 2026-11-23
+수정일: 2026-11-25
 요약: 공장재산종합보험, 포괄 방식과 열거 방식의 차이와 면책 조항 읽는 법을 정리했습니다. 지금 증권이 어떤 방식인지 점검받아 보세요.
 
 전문가 칼럼 · 종합보험
@@ -656,7 +656,7 @@ URL: https://factory.yangsimlab.com/columns/property-all-risk/
 ## 동산종합보험
 
 URL: https://factory.yangsimlab.com/columns/inland-marine/
-수정일: 2026-11-21
+수정일: 2026-11-25
 요약: 동산종합보험, 협력업체 금형·현장 장비·운송 물품처럼 공장 밖 재산의 보장 공백을 정리했습니다. 외부 재산 목록 점검을 상담하세요.
 
 전문가 칼럼 · 이동 재산
@@ -707,7 +707,7 @@ URL: https://factory.yangsimlab.com/columns/inland-marine/
 ## 기업화재보험
 
 URL: https://factory.yangsimlab.com/columns/corporate-fire/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 기업화재보험, 특수건물 의무가입과 대출 질권, 여러 사업장 관리까지 법인이 챙길 항목을 정리했습니다. 법인 사업장 점검을 상담하세요.
 
 전문가 칼럼 · 법인
@@ -758,7 +758,7 @@ URL: https://factory.yangsimlab.com/columns/corporate-fire/
 ## 기계화재보험
 
 URL: https://factory.yangsimlab.com/columns/machinery-vs-fire/
-수정일: 2026-11-23
+수정일: 2026-11-25
 요약: 기계화재보험, 기계 고장은 기계보험, 불은 화재보험. 두 보험의 경계와 과열 화재처럼 겹치는 사례를 정리했습니다. 설비별 점검을 받아보세요.
 
 전문가 칼럼 · 비교
@@ -808,7 +808,7 @@ URL: https://factory.yangsimlab.com/columns/machinery-vs-fire/
 ## 패키지보험
 
 URL: https://factory.yangsimlab.com/columns/package-policy/
-수정일: 2026-11-23
+수정일: 2026-11-25
 요약: 패키지보험, 재산·배상·휴업을 한 증권에 묶는 구조와 잘 맞는 공장, 과한 공장의 기준을 정리했습니다. 흩어진 보험 정리를 상담하세요.
 
 전문가 칼럼 · 종합보험
@@ -863,7 +863,7 @@ URL: https://factory.yangsimlab.com/columns/package-policy/
 ## 제조물보험
 
 URL: https://factory.yangsimlab.com/columns/manufacturer-insurance/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 제조물보험, 거래처가 가입 증명서를 요구할 때 판매 지역·계약 조건·추가 피보험자까지 확인할 점을 정리했습니다. 증명서 준비를 상담하세요.
 
 전문가 칼럼 · 납품·수출
@@ -914,7 +914,7 @@ URL: https://factory.yangsimlab.com/columns/manufacturer-insurance/
 ## 생산물보험
 
 URL: https://factory.yangsimlab.com/columns/products-insurance/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 생산물보험 가입 실무 Q&amp;A. 보험료 기준, 준비 서류, 보장 기간 방식, 배상 한도까지 자주 묻는 질문에 답했습니다. 가입 전 상담하세요.
 
 전문가 칼럼 · 가입 실무
@@ -953,7 +953,7 @@ URL: https://factory.yangsimlab.com/columns/products-insurance/
 ## 재산종합보험과 화재보험 차이
 
 URL: https://factory.yangsimlab.com/columns/property-all-risk-vs-fire/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 재산종합보험과 화재보험 차이, 열거 위험과 전위험 방식, 면책 목록, 기계·휴업까지 묶는 구조를 비교했습니다. 지금 증권 방식을 점검받아 보세요.
 
 전문가 칼럼 · 비교
@@ -1000,7 +1000,7 @@ URL: https://factory.yangsimlab.com/columns/property-all-risk-vs-fire/
 ## 재조달가액과 시가 차이
 
 URL: https://factory.yangsimlab.com/columns/replacement-vs-actual/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 재조달가액과 시가 차이, 감가상각과 보험가액 평가 기준, 공장 기계·건물 가입금액 정하는 법과 비례보상의 관계를 정리했습니다. 가입금액 점검을 상담하세요.
 
 전문가 칼럼 · 보험가액
@@ -1052,7 +1052,7 @@ URL: https://factory.yangsimlab.com/columns/replacement-vs-actual/
 ## 공장화재보험과 화재배상책임보험 차이
 
 URL: https://factory.yangsimlab.com/columns/fire-vs-fire-liability/
-수정일: 2026-10-25
+수정일: 2026-11-25
 요약: 공장화재보험과 화재배상책임보험 차이, 내 공장 재산 손해와 옆 공장 피해 배상의 근거·잣대를 비교했습니다. 두 담보가 다 있는지 점검받아 보세요.
 
 전문가 칼럼 · 비교
@@ -1100,7 +1100,7 @@ URL: https://factory.yangsimlab.com/columns/fire-vs-fire-liability/
 ## 기업휴지보험과 화재보험 차이
 
 URL: https://factory.yangsimlab.com/columns/business-interruption-vs-fire/
-수정일: 2026-11-23
+수정일: 2026-11-25
 요약: 기업휴지보험과 화재보험 차이, 불에 탄 재산 손해와 공장이 멈춘 기간의 이익·고정비 손실을 비교했습니다. 휴지 담보 필요 여부를 상담하세요.
 
 전문가 칼럼 · 휴업
@@ -1146,7 +1146,7 @@ URL: https://factory.yangsimlab.com/columns/business-interruption-vs-fire/
 ## 겨울철 공장 화재와 화재보험 점검
 
 URL: https://factory.yangsimlab.com/columns/winter-factory-fire/
-수정일: 2026-11-23
+수정일: 2026-11-25
 요약: 겨울철 공장 화재와 화재보험 점검, 난방기·전기 과부하·열선·정전기 불씨와 연말 재고·휴업 손해까지 정리했습니다. 첫 추위 전에 증권을 점검해 보세요.
 
 전문가 칼럼 · 계절·겨울
@@ -1202,7 +1202,7 @@ URL: https://factory.yangsimlab.com/columns/winter-factory-fire/
 ## 공장화재보험가입
 
 URL: https://factory.yangsimlab.com/columns/factory-fire-signup/
-수정일: 2026-11-08
+수정일: 2026-11-25
 요약: 공장화재보험가입 절차와 준비 서류, 현장 확인에서 보는 공정·구조·소방 설비, 자가·임차 공장 차이를 정리했습니다. 가입 준비를 상담해 보세요.
 
 전문가 칼럼 · 가입 절차
@@ -1263,7 +1263,7 @@ URL: https://factory.yangsimlab.com/columns/factory-fire-signup/
 ## 공장화재보험비용
 
 URL: https://factory.yangsimlab.com/columns/factory-fire-cost/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 공장화재보험비용을 좌우하는 업종·공정, 건물 구조, 소방 설비, 가입금액, 자기부담금, 담보 범위와 견적 전 점검법을 정리했습니다. 증권 점검을 상담하세요.
 
 전문가 칼럼 · 보험료
@@ -1318,7 +1318,7 @@ URL: https://factory.yangsimlab.com/columns/factory-fire-cost/
 ## 제조업화재보험
 
 URL: https://factory.yangsimlab.com/columns/manufacturing-fire/
-수정일: 2026-11-11
+수정일: 2026-11-25
 요약: 제조업화재보험, 식품·금속·플라스틱·목재·화학·섬유 업종별 화재 위험과 증권 확인 담보, 소방 손해와 구조·용도 기재, 원자재 집합보험 규정을 정리했습니다.
 
 전문가 칼럼 · 업종별 위험
@@ -1374,7 +1374,7 @@ URL: https://factory.yangsimlab.com/columns/manufacturing-fire/
 ## 공장풍수해보험
 
 URL: https://factory.yangsimlab.com/columns/factory-windstorm-flood/
-수정일: 2026-11-11
+수정일: 2026-11-25
 요약: 공장풍수해보험, 정부 지원 풍수해·지진재해보험과 화재보험 풍수재 담보의 차이, 소상공인 기준, 특수건물 공장의 가입 근거, 장마·태풍 전 점검을 정리했습니다.
 
 전문가 칼럼 · 자연재해
@@ -1435,7 +1435,7 @@ URL: https://factory.yangsimlab.com/columns/factory-windstorm-flood/
 ## 특수건물화재보험
 
 URL: https://factory.yangsimlab.com/columns/special-building-fire/
-수정일: 2026-11-14
+수정일: 2026-11-25
 요약: 특수건물화재보험, 연면적 3천㎡ 이상 등록 공장 등 대상 기준과 과실 없이 지는 배상 책임, 30일 안 가입·매년 갱신 의무, 증축 때 점검할 점을 정리했습니다.
 
 전문가 칼럼 · 법정 의무 가입
@@ -1487,7 +1487,7 @@ URL: https://factory.yangsimlab.com/columns/special-building-fire/
 ## 지게차보험
 
 URL: https://factory.yangsimlab.com/columns/forklift/
-수정일: 2026-11-21
+수정일: 2026-11-25
 요약: 지게차보험, 일반 지게차가 자동차손해배상 의무보험 대상이 아닌 이유와 트럭지게차 예외, 공장 안 작업 사고·화물 파손 담보를 표로 정리했습니다.
 
 전문가 칼럼 · 의무보험 밖의 장비
@@ -1593,7 +1593,7 @@ URL: https://factory.yangsimlab.com/sandan/
 ## 반월공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/banwol/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 반월공단화재보험, 임차 공장이 많고 건물 간격이 좁은 안산 반월국가산단 공장의 화재·배상 위험을 정리했습니다. 반월공단 공장 상담은 전화로 문의하세요.
 
 경기 안산 · 국가산업단지
@@ -1663,7 +1663,7 @@ URL: https://factory.yangsimlab.com/sandan/banwol/
 ## 시화공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/sihwa/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 시화공단화재보험, 소규모 기계·금속 공장이 밀집한 시흥 시화국가산단과 시화MTV 공장의 화재·배상 위험을 정리했습니다. 시화공단 상담은 전화로 문의하세요.
 
 경기 시흥·안산 · 국가산업단지
@@ -1734,7 +1734,7 @@ URL: https://factory.yangsimlab.com/sandan/sihwa/
 ## 남동공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/namdong/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 남동공단화재보험, 기계·전기전자 중소 공장이 모인 인천 남동국가산단의 화재·배상 위험과 소방 설비 점검 포인트를 정리했습니다. 남동공단 상담은 전화로 문의하세요.
 
 인천 남동구 · 국가산업단지
@@ -1805,7 +1805,7 @@ PCB, 도금, 세척 공정의 약품과 전기 설비는 화재와 2차 오염 �
 ## 부평공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/bupyeong/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 부평공단화재보험, 1965년 지정된 인천 한국수출산업 부평단지의 노후 공장과 전기전자 설비 화재 위험을 정리했습니다. 부평공단 공장 상담은 전화로 문의하세요.
 
 인천 부평구 · 국가산업단지
@@ -1872,7 +1872,7 @@ URL: https://factory.yangsimlab.com/sandan/bupyeong/
 ## 주안공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/juan/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 주안공단화재보험, 1969년 지정된 인천 한국수출산업 주안단지 기계·전기전자 공장의 화재·배상 위험을 정리했습니다. 주안공단 공장 상담은 전화로 문의하세요.
 
 인천 서구·미추홀구 · 국가산업단지
@@ -1940,7 +1940,7 @@ URL: https://factory.yangsimlab.com/sandan/juan/
 ## 김포학운공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/gimpo-hagun/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 김포학운공단화재보험, 1~7단지로 이어진 김포 양촌읍 학운산단 공장의 화재·배상 위험과 신축 공장 가입 포인트를 정리했습니다. 김포 공장 상담은 전화로 문의하세요.
 
 경기 김포 양촌읍 · 일반산업단지
@@ -2009,7 +2009,7 @@ URL: https://factory.yangsimlab.com/sandan/gimpo-hagun/
 ## 화성발안공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/hwaseong-balan/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 화성발안공단화재보험, 의약품·금속가공 공장이 모인 화성 향남 발안산단의 화재·배상 위험과 주거 인접 특성을 정리했습니다. 발안공단 공장 상담은 전화로 문의하세요.
 
 경기 화성 향남읍 · 일반산업단지
@@ -2078,7 +2078,7 @@ URL: https://factory.yangsimlab.com/sandan/hwaseong-balan/
 ## 오송공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/osong/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 오송공단화재보험, 제약·바이오 기업이 모인 청주 오송생명과학단지 공장의 원료·연구설비 화재와 휴업 위험을 정리했습니다. 오송 공장 상담은 전화로 문의하세요.
 
 충북 청주 오송읍 · 국가산업단지
@@ -2147,7 +2147,7 @@ URL: https://factory.yangsimlab.com/sandan/osong/
 ## 아산인주공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/asan-inju/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 아산인주공단화재보험, 자동차 부품·기계·철강 공장이 모인 아산 인주일반산단의 화재·휴업·배상 위험을 정리했습니다. 인주공단 공장 상담은 전화로 문의하세요.
 
 충남 아산 인주면 · 일반산업단지
@@ -2217,7 +2217,7 @@ URL: https://factory.yangsimlab.com/sandan/asan-inju/
 ## 당진석문공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/dangjin-seokmun/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 당진석문공단화재보험, 기계·석유화학·철강 공장이 모인 당진 석문국가산단의 화재·폭발·배상 위험을 정리했습니다. 석문공단 공장 상담은 전화로 문의하세요.
 
 충남 당진 석문면 · 국가산업단지
@@ -2285,7 +2285,7 @@ URL: https://factory.yangsimlab.com/sandan/dangjin-seokmun/
 ## 평택포승공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/pyeongtaek-poseung/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 평택포승공단화재보험, 평택항에 인접한 아산국가산단 포승지구 공장의 화재·폭발·배상 위험과 항만 물류 재고를 정리했습니다. 포승공단 공장 상담은 전화로 문의하세요.
 
 경기 평택 포승읍 · 아산국가산단 포승지구
@@ -2354,7 +2354,7 @@ URL: https://factory.yangsimlab.com/sandan/pyeongtaek-poseung/
 ## 구미공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/gumi/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 구미공단화재보험, 전자·반도체·기계 공장이 모인 구미국가산단 1~5단지 공장의 화재 확산·휴업·배상 위험을 정리했습니다. 구미공단 공장 상담은 전화로 문의하세요.
 
 경북 구미 · 국가산업단지 1~5단지
@@ -2423,7 +2423,7 @@ URL: https://factory.yangsimlab.com/sandan/gumi/
 ## 창원공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/changwon/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 창원공단화재보험, 기계·방산·운송장비 공장이 모인 창원국가산단 공장의 설비 화재·연소 확대·휴업 위험을 정리했습니다. 창원공단 공장 상담은 전화로 문의하세요.
 
 경남 창원 · 국가산업단지
@@ -2492,7 +2492,7 @@ URL: https://factory.yangsimlab.com/sandan/changwon/
 ## 울산미포공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/ulsan-mipo/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 울산미포공단화재보험, 석유화학·조선·자동차 공장이 모인 울산미포국가산단 협력사 공장의 화재·폭발·배상 위험을 정리했습니다. 미포공단 공장 상담은 전화로 문의하세요.
 
 울산 남구·동구·북구 · 국가산업단지
@@ -2560,7 +2560,7 @@ URL: https://factory.yangsimlab.com/sandan/ulsan-mipo/
 ## 성남공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/seongnam/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 성남공단화재보험, 지식산업센터 호실에 입주한 성남하이테크밸리 제조·전자 기업의 화재·임차 배상 위험을 정리했습니다. 성남공단 상담은 전화로 문의하세요.
 
 경기 성남 중원구 · 일반산업단지
@@ -2630,7 +2630,7 @@ URL: https://factory.yangsimlab.com/sandan/seongnam/
 ## 검단공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/geomdan/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 검단공단화재보험, 인천 검단구 오류동 뷰티풀파크(구 검단산단) 공장의 화재 확산·배상 위험과 화학 공정 점검 포인트를 정리했습니다. 검단공단 상담은 전화로 문의하세요.
 
 인천 검단구 오류동 · 일반산업단지
@@ -2699,7 +2699,7 @@ URL: https://factory.yangsimlab.com/sandan/geomdan/
 ## 김포양촌공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/gimpo-yangchon/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 김포양촌공단화재보험, 종이·인쇄·플라스틱 공장이 모인 김포 양촌일반산단의 화재 확산과 주거 인접 배상 위험을 정리했습니다. 김포 공장 상담은 전화로 문의하세요.
 
 경기 김포 양촌읍 · 일반산업단지
@@ -2768,7 +2768,7 @@ URL: https://factory.yangsimlab.com/sandan/gimpo-yangchon/
 ## 파주출판단지화재보험
 
 URL: https://factory.yangsimlab.com/sandan/paju-publishing/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 파주출판단지화재보험, 출판사·인쇄소·서적 물류창고가 모인 파주출판문화정보국가산단의 종이 재고와 위탁 재고 위험을 정리했습니다. 파주 상담은 전화로 문의하세요.
 
 경기 파주 문발동 · 국가산업단지
@@ -2838,7 +2838,7 @@ URL: https://factory.yangsimlab.com/sandan/paju-publishing/
 ## 대전공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/daejeon/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 대전공단화재보험, 1969년 조성된 대전 대덕구 대화동 산업단지의 노후 샌드위치패널 공장과 주거지 인접 배상 위험을 정리했습니다. 대전공단 상담은 전화로 문의하세요.
 
 대전 대덕구 대화동 · 일반산업단지
@@ -2907,7 +2907,7 @@ URL: https://factory.yangsimlab.com/sandan/daejeon/
 ## 청주공단화재보험
 
 URL: https://factory.yangsimlab.com/sandan/cheongju/
-수정일: 2026-11-22
+수정일: 2026-11-25
 요약: 청주공단화재보험, 전기전자·기계·석유화학 공장이 모인 청주 흥덕구 청주일반산단의 화재·가스·휴업 위험을 정리했습니다. 청주공단 공장 상담은 전화로 문의하세요.
 
 충북 청주 흥덕구 · 일반산업단지
@@ -2982,7 +2982,7 @@ URL: https://factory.yangsimlab.com/about/
 양심보험연구소 대표
 공장화재보험 전문가 노영규
 노영규는 22년 동안 손해보험 현장에서 일해 온 화재보험 전문가로, 이 사이트에서는 제조 공장의 화재 위험을 다룹니다. 건물과 기계, 원자재·완제품 재고, 휴업 손해와 생산물책임까지 공장 한 곳을 하나의 위험 지도로 보고 설계합니다.
-작성 노영규 · 양심보험연구소 대표 · 손해보험 22년 · 2026년 11월 23일 업데이트
+작성 노영규 · 양심보험연구소 대표 · 손해보험 22년 · 2026년 11월 25일 업데이트
 공장 상담에서 먼저 보는 네 가지
 기계 설비와 재조달가액
 생산 라인 기계는 장부가가 아니라 지금 다시 들일 때의 값으로 가입금액을 잡아야 사고 뒤 비례 보상으로 깎이지 않습니다.
